@@ -1,4 +1,3 @@
-![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Mohamed Shabeel Ashraf</h1>
 <h3 align="center">A passionate MEAN Stack developer from India</h3>
 
