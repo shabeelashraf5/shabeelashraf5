@@ -6,7 +6,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on [TutorMe - Education Web Application](https://github.com/shabeelashraf5/TutorMate-EducationalPlatform.git)<br>👨‍💻 All of my projects are available at  [sHabEel - Portfolio](https://portfolio-shabeels-projects.vercel.app)<br>🌱 I’m currently learning Tensorflow and Ionic<br>💬 Ask me about Angular, NodeJS, ExpressJS, NestJS, MongoDB, and web development<br>⚡ Fun fact I transitioned into software development after 8 years in a different industry and enjoy tackling challenging projects!<br>📫 How to reach me shabeelash5@gmail.com<br>
+🔭 I’m currently working on [ChuuNow - Food Application](https://github.com/shabeelashraf5/chuuNow-FoodApp.git)<br>👨‍💻 All of my projects are available at  [sHabEel - Portfolio](https://portfolio-shabeels-projects.vercel.app)<br>🌱 I’m currently learning Tensorflow and Ionic<br>💬 Ask me about Angular, NodeJS, ExpressJS, NestJS, MongoDB, and web development<br>⚡ Fun fact I transitioned into software development after 8 years in a different industry and enjoy tackling challenging projects!<br>📫 How to reach me shabeelash5@gmail.com<br>
 
 
 ## 🌐 Socials:
