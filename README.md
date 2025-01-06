@@ -22,9 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabeelashraf5&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabeelashraf5&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shabeelashraf5" alt="GitHub Streak" /></a>
  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
